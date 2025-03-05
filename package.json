@@ -4,7 +4,7 @@
   "description": "A boilerplate project",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node --watch server.js"
   },
   "dependencies": {
     "body-parser": "^1.15.2",
